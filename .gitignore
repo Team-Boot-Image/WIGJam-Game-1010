@@ -111,9 +111,3 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Logs/*
 *.log
-*.ini
-*.ini
-*.bin
-WIGJamBoot/Saved/AutoScreenshot.png
-*.log
-*.log
